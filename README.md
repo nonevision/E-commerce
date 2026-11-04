@@ -1,9 +1,9 @@
-# e-commerce
+# badge-workspace
 
 Small, tested checkout logic for an online store, written in plain JavaScript
 with no dependencies. Prices are integers in cents to avoid rounding errors.
 
-Created from [e-commerce-template](https://github.com/nonevision/e-commerce-template).
+Created from [badge-template](https://github.com/nonevision/badge-template).
 
 ## Run the tests
 
