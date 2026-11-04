@@ -1,17 +1,12 @@
-# badge-template
+# e-commerce
 
-A small starter template for a new project with a pull request workflow.
+Small, tested checkout logic for an online store, written in plain JavaScript
+with no dependencies. Prices are integers in cents to avoid rounding errors.
 
-## Use this template
+Created from [e-commerce-template](https://github.com/nonevision/e-commerce-template).
 
-Click **Use this template** on GitHub, or run:
+## Run the tests
 
 ```sh
-gh repo create my-project --template nonevision/badge-template --public --clone
+npm test
 ```
-
-## What's included
-
-- `README.md`: a starting point for your project docs
-- `.github/pull_request_template.md`: a checklist for pull requests
-- `.gitignore`: common files to keep out of version control
